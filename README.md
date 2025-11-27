@@ -34,7 +34,7 @@ cd RESUME-ANALYZER
 Windows:
 
 ```bash
-python -m venv venv
+python -m venv venva
 venv\Scripts\activate
 ```
 
@@ -53,3 +53,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+
+### 📂 Slides & Recording:  
+🔗 [Open Google Drive Folder](https://drive.google.com/drive/folders/1vWmdrAnxvTLADR9CwsBRNWthTFY6NDq9?usp=sharing)
